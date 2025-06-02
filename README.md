@@ -1,2 +1,1 @@
-# mjs-project-terraform-frontend
-this is github repo resouce for frontend
+# This prod repository is for frontend developers.
