@@ -1,2 +1,1 @@
-# mjs-project-terraform-frontend
-this is github repo resouce for python
+# This prod repository is for python developers.
